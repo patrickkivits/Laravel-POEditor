@@ -1,5 +1,5 @@
 {
-    "name": "sebudesign/laravel-poeditor",
+    "name": "patrickkivits/laravel-poeditor",
     "description": "A Laravel package for POEditor",
     "keywords": [
         "sebudesign",
@@ -21,9 +21,9 @@
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/container": "~5.3.0|~5.4.0|~5.5.0|~5.6.0",
-        "illuminate/contracts": "~5.3.0|~5.4.0|~5.5.0|~5.6.0",
-        "illuminate/database": "~5.4.0|~5.5.0|~5.6.0"
+        "illuminate/container": "~5.3.0|~5.4.0|~5.5.0|~5.6.0|~5.7.0",
+        "illuminate/contracts": "~5.3.0|~5.4.0|~5.5.0|~5.6.0|~5.7.0",
+        "illuminate/database": "~5.4.0|~5.5.0|~5.6.0|~5.7.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
